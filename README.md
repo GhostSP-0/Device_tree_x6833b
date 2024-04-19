@@ -1,0 +1,3 @@
+# DEVICE TREE X6833B
+
+By: Ghostsp
