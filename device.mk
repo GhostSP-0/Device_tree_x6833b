@@ -119,6 +119,6 @@ TARGET_RECOVERY_DEVICE_MODULES += \
 
 # Vendor_Boot
 PRODUCT_COPY_FILES += \
-     device/infinix/X678/fstab.emmc:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/first_stage_ramdisk/fstab.emmc \
-     device/infinix/X678/fstab.mt6789:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/first_stage_ramdisk/fstab.mt6789 
+     device/infinix/X6833/fstab.emmc:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/first_stage_ramdisk/fstab.emmc \
+     device/infinix/X6833/fstab.mt6789:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/first_stage_ramdisk/fstab.mt6789 
 
