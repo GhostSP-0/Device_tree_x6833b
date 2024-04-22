@@ -57,6 +57,3 @@ PRODUCT_PACKAGES += \
     android.hardware.fastboot@1.0-impl-mock \
     fastbootd
 
-# Copy patched touch screen driver module
-PRODUCT_COPY_FILES += \
-   $(LOCAL_PATH)/touch/transsion_touch_patched.ko:recovery/root/lib/modules/transsion_touch.ko
